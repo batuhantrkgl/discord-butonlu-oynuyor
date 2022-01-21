@@ -1,5 +1,5 @@
 echo off
-title DiscordTürkiye
+title Batuhantrkgl | Butonlu Oynuyor
 color c
 cls
 :a
