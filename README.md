@@ -3,6 +3,7 @@ Discord Butonlu Oynuyor Altyapısı.
 
 İlk Olarak Discord Developer Portal'a giriyoruz (https://discord.com/developers/applications/)
 Sağ Üstte Bulunan 
+
 ![image](https://user-images.githubusercontent.com/76158371/150534822-960f9fb2-3239-4d96-a6f9-64d5ee201d89.png)
 
 New Application Kısmına Tıklıyoruz.
@@ -24,6 +25,7 @@ client information kısmından clientıd mizi kopyalıyoruz.
 sonra dosyamızda index.js yi açıyoruz
 
 ![image](https://user-images.githubusercontent.com/76158371/150535351-4163bbf9-da5e-4c06-998a-19b256f9ed91.png)
+
 client ıd yazan yere kopyaladığımız sayıları yapıştırıyoruz.
 
 Şu Anda Çalışır Durumda Ancak Bissürü Hatalar İle Karşılaşacağız.
@@ -33,12 +35,15 @@ client ıd yazan yere kopyaladığımız sayıları yapıştırıyoruz.
 Discord Developer Portalımza geri dönüp "Rich Presence" Kısmına Tıklıyoruz Ondan Sonrada Art Assests Kısmına tıklıyoruz.
 
 ![image](https://user-images.githubusercontent.com/76158371/150535932-f4751b0f-e136-4441-968c-1c1aa2a0f74e.png)
+
 512x512 yada 1024x1024 bir resim yüklüyoruz. (Resminizin Adına Dikkat Edin Adı Lazım Olucak.) aradan 5-10 dakika geçmesini bekliyoruz site tarafında yüklemeler uzun sürebiliyor. ve save changes diyoruz.
 
 aynı işlemleri 2. resmimiz içinde tekrarlıyoruz.
 
 index.js dosyamıza gelip
+
 ![image](https://user-images.githubusercontent.com/76158371/150536265-b5b53752-384f-4861-bbdc-e53cac041765.png)
+
 bu kısımları kendimize göre dolduruyoruz. (Large İmage ve small image kısmı yüklediğimiz dosyaların adı olucak.)
 
 ana dizie gelip başlata tıklıyoruz ve işlem tamam!
