@@ -4,15 +4,19 @@ Discord Butonlu Oynuyor Altyapısı.
 İlk Olarak Discord Developer Portal'a giriyoruz (https://discord.com/developers/applications/)
 Sağ Üstte Bulunan 
 ![image](https://user-images.githubusercontent.com/76158371/150534822-960f9fb2-3239-4d96-a6f9-64d5ee201d89.png)
+
 New Application Kısmına Tıklıyoruz.
 
 ![image](https://user-images.githubusercontent.com/76158371/150534918-de0347b7-ad8d-4573-bc22-f0ca05ca71c8.png)
+
 İsmini Belirliyoruz.
 
 ![image](https://user-images.githubusercontent.com/76158371/150535016-d220ad85-912c-480e-a964-5bf28ff6d4a4.png)
+
 app'ımızda OAuth2 sekmesine giriyoruz.
 
 ![image](https://user-images.githubusercontent.com/76158371/150535151-4c4e3140-5638-4869-ba3b-9415a7ed5c84.png)
+
 client information kısmından clientıd mizi kopyalıyoruz.
 
 ![image](https://user-images.githubusercontent.com/76158371/150535293-3a34dfd7-6026-4b00-913d-335b8d257204.png)
