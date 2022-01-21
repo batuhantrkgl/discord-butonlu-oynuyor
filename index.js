@@ -16,4 +16,4 @@ buttons : [{label : "Github" , url : "https://github.com/batuhantrkgl"}, {label 
 })
 })
 console.log("Giriş Yapıldı!")
-client.login({ clientId : "934061876319506453" }).catch(console.error);
+client.login({ clientId : "123456789012345678" }).catch(console.error);
